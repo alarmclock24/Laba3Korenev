@@ -401,3 +401,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 *.db
+*.db
+.vs/Laba3_Korenev/v17/.suo
